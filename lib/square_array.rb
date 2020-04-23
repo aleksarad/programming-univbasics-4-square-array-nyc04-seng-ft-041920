@@ -7,3 +7,4 @@ def square_array(arr)
   end 
   p newArr
 end
+
