@@ -1,5 +1,6 @@
 def square_array(arr)
   count = 0 
-  while count < arr.length
-    d
+  newArr = []
+  while count < arr.length do 
+    
 end
