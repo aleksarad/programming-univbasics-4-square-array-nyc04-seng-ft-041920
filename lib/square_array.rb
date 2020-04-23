@@ -7,7 +7,3 @@ def square_array(arr)
   end 
   p newArr
 end
-
-numbers = [1,2,3,4]
- 
-square_array(numbers)
